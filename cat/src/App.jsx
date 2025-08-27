@@ -18,6 +18,16 @@ function App() {
   return (
     <div className="container">
       <h1>CAT VS DOG CLASSIFIER</h1>
+      <h3>
+        <a
+          href="https://drive.google.com/file/d/1hUXncthd9UdNZCQQPuejKAGsK8U-ZYe1/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#ffdd57", textDecoration: "none" }}
+        >
+          CODE-link (CLICK HERE)
+        </a>
+      </h3>
       <h3>CNN-SIMPLE MODEL</h3>
 
       <div className="image-row">
